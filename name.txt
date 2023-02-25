@@ -1,2 +1,2 @@
 role,NetID,LastName,FirstName
-Boss,zjiang299,Jiang,Zhuoyu
+boss,zjiang299,Jiang,Zhuoyu
